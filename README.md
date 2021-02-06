@@ -45,4 +45,4 @@
 
 ## 02. Understanding face_recognition
 
-![face_box_preview.png](./face_box_preview.png)
+![face_box_preview.png](.extra/face_box_preview.png)
