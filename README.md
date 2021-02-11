@@ -46,3 +46,8 @@
 ## 02. Understanding face_recognition
 
 ![face_box_preview.png](extra/face_box_preview.png)
+
+
+## 03. Automated Multiple_Face_Detection
+
+![face_box_preview.png](extra/03.png)
